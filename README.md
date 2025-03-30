@@ -14,6 +14,4 @@ This project is an AI-powered accessibility assistant designed to help visually 
 - **Backend:** Firebase / Node.js
 - **AI Models:** TensorFlow.js / Google Vision API
 
-## 📦 Installation & Setup
-### 1️⃣ Clone the Repository
 
